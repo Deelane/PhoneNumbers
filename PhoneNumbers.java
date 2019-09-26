@@ -6,7 +6,7 @@ import java.io.*;
 * If contact exists, prints contact's phone number and exists. If the contact does not exist,
 * prompts the user to add new contacts until the limit of 20 is reached.
 *
-* @Delaney Nikoofekr
+* @
 * @1.0 
 */
 public class PhoneNumbers
